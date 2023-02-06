@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Razorpay Demo</string>
+    <string name="something_went_wrong">Something went worng</string>
+    <string name="name_validation">Please enter your name.</string>
+    <string name="phone_validation">Please enter your phone number,</string>
+    <string name="city_validation">Please enter city.</string>
+    <string name="invalid_phone_number">Please enter a valid phone number.</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Your Name</string>
+    <string name="your_phone">Your Phone</string>
+    <string name="enter_your_phone_no">Enter your phone no</string>
+    <string name="your_city">Your City</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+</resources>
